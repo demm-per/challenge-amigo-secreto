@@ -41,3 +41,8 @@ Sigue estos pasos para descargar y ejecutar el proyecto en tu máquina local:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/80307143?v=4" width=115><br><sub>Luis Demetrio</sub>](https://github.com/demm-per) |
+| :---: |
