@@ -32,7 +32,7 @@ Sigue estos pasos para descargar y ejecutar el proyecto en tu máquina local:
 2. Navega al directorio del proyecto:
   cd challenge-amigo-secreto
 
-Abre el archivo index.html en tu navegador preferido para visualizar y probar el proyecto.
+3. Abre el archivo index.html en tu navegador preferido para visualizar y probar el proyecto.
 
 ## Nota: No necesitas instalar dependencias adicionales, ya que el proyecto está desarrollado únicamente con HTML, CSS y JavaScript puro.
 
