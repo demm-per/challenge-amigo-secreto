@@ -15,3 +15,29 @@ Aplicación sencilla con HTML, CSS y JavaScript que permite agregar nombres a un
 - **Visualización clara del resultado:** El resultado del amigo secreto se muestra de forma destacada en color verde, asegurando que sea fácil de identificar.
 
 ![gif amigo secreto](https://github.com/user-attachments/assets/495d81ce-b548-494a-aafe-8a33df5af616)
+
+## 📁 Acceso al proyecto
+
+Puedes acceder al código fuente del proyecto a través del siguiente enlace:  
+[Repositorio en GitHub](https://github.com/demm-per/challenge-amigo-secreto)
+
+## 🛠️ Abre y ejecuta el proyecto
+
+Sigue estos pasos para descargar y ejecutar el proyecto en tu máquina local:
+
+1. Clona el repositorio con el siguiente comando:
+   ```bash
+   git clone https://github.com/demm-per/challenge-amigo-secreto.git
+
+2. Navega al directorio del proyecto:
+  cd challenge-amigo-secreto
+
+Abre el archivo index.html en tu navegador preferido para visualizar y probar el proyecto.
+
+## Nota: No necesitas instalar dependencias adicionales, ya que el proyecto está desarrollado únicamente con HTML, CSS y JavaScript puro.
+
+
+## 🚀 Tecnologías utilizadas:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
